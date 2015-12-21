@@ -1,4 +1,4 @@
 # testprj
 Testing Project
 
-CLEANING README
+CLEANING README, NOW ADD CONFLICT
